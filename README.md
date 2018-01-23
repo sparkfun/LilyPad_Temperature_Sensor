@@ -12,15 +12,15 @@ Detect physical touch based on body heat and ambient conditions with this small 
 
 Repository Contents
 -------------------
-
+* **/Firmware** - Arduino Example code 
 * **/Hardware** - Eagle design files (.brd, .sch)
 * **/Production** - Production panel files (.brd)
 
 Documentation
 --------------
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/lilypad-temperature-sensor-hookup-guide)** - Basic Hookup Guide for the LilyPad temperature sensor.
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
 * **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
-
 
 License Information
 -------------------
